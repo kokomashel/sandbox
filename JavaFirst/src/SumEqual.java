@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.*;
 
 /**
- * Created by yc04127 on 9/18/17.
+ * Find pairs in an integer array whose sum is equal to 10
  */
 public class SumEqual {
 
